@@ -1,0 +1,16 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "text": "mamar o cachorro",
+        "category": "obrigacao",
+        "isCompleted": false
+      },
+      {
+        "id": 2,
+        "text": "comer o cachorro",
+        "category": "prazer",
+        "isCompleted": false
+      }
+    ]
+  }
