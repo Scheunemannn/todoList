@@ -106,6 +106,7 @@ form {
   border: none;
   margin-left: 10px;
   transition: 0.5s;
+  cursor: pointer;
 }
 
 .complete:hover {
